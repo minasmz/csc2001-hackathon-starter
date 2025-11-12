@@ -64,4 +64,47 @@ Once your `index.html` is ready:
    - **Source:** “Deploy from branch”
    - **Branch:** “main” → “/(root)”
 3. Click **Save** and wait 1–2 minutes.  
-4. Your live site will appear at  
+4. Your live site will appear at  https://<org>.github.io/<repo-name>/
+5. 5. Share that link for your final demo.
+
+---
+
+## 🏁 Deliverables
+At the end of the hackathon:
+- ✅ Working web app with HTML + CSS + JS + API  
+- 🌍 Live **GitHub Pages link**  
+- 👥 Visible commits from all teammates   
+
+---
+
+## 🏆 Lighthearted Awards
+
+We’ll finish by celebrating creativity and teamwork with these recognitions:
+
+| Award | Description |
+|--------|--------------|
+| 🥇 **Best UI Design** | Most beautiful and polished layout |
+| 💡 **Most Creative API Choice** | Clever, unique, or funny data source |
+| 🤝 **Best Team Collaboration** | Seamless teamwork and shared effort |
+| 😂 **Funniest App Idea** | Made the class laugh or smile |
+
+*(Hint: you don’t need perfection — just creativity, collaboration, and effort!)*
+
+---
+
+## 💬 Helpful APIs
+- [Quotable API](https://api.quotable.io/random) – free random quotes  
+- [Random User API](https://randomuser.me/) – fake user data  
+- [OpenWeatherMap](https://openweathermap.org/api) – weather data  
+- [The Dog API](https://thedogapi.com/) – random dog images  
+- [Cat Facts API](https://catfact.ninja/) – random cat facts  
+
+---
+
+## 💡 Final Tip
+This project is about **experimentation and creativity**, not perfection.  
+Test ideas, help your teammates, and enjoy seeing your work come to life on the web.
+
+Good luck and have fun coding! 🚀  
+*— Dr. Mina Samizadeh*
+
