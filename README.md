@@ -53,23 +53,7 @@ Need ideas? Try browsing [Public-APIs List](https://github.com/public-apis/publi
 - Using multiple APIs  
 - Adding animations or transitions  
 - Handling errors gracefully (`if (xhr.status === 200)` or `.catch(error)`)  
-- Creative design, humor, or storytelling  
-- Making your interface mobile-friendly  
-
----
-
-## ⚙️ How to Work on This Project (No Command Line Needed)
-
-Everything can be done inside **GitHub’s website** — no terminal required!
-
-### Editing files
-1. Click a file (e.g., `index.html`).  
-2. Click the ✏️ **Edit** icon.  
-3. Make your changes and **Commit** (with a short message like “added CSS header”).  
-4. Repeat for `style.css` and `script.js`.  
-5. Use **Add file → Create new file** if you want extra images or assets.
-
-GitHub automatically tracks each teammate’s commits.
+- Creative design, humor, or storytelling   
 
 ---
 
